@@ -1,0 +1,47 @@
+*{
+
+  font-family: Inter
+
+}
+
+.column1{
+  padding: 1rem
+
+}
+.column2{
+  padding: 1rem
+
+}
+.column3{
+  padding: 1rem
+
+}
+
+.column4{
+  padding: 1rem
+
+}
+
+footer {
+    background-color: #DE1D22;
+    padding: 1rem
+}
+
+.elclub{
+  box-sizing: border-box;
+  display: flex;
+  width: 100%
+}
+
+.tienda img{
+  width: 100%
+
+}
+
+.redes{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+
+
+  }
